@@ -36,7 +36,7 @@
 - Exercícios Aula 74: Semáfaro com Threads
  
 #### Trabalhando com Strings
-= String: construtores
+- String: construtores
 - String: concatenação
 - String: extraindo chars (charAt, getChars, getBytes, toCharArray)
 - String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
