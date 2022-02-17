@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //String: juntando e separando String (join, split)
-public class Aula82 {
+public class Aula82JuntandoSeparandoStrings {
 
 	public static void main(String[] args) {
 		//juntar strings

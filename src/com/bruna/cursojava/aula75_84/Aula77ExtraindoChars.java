@@ -3,7 +3,7 @@ package com.bruna.cursojava.aula75_84;
 import java.util.Arrays;
 
 //string: extraindo chars(charAt, getChars, getBytes,toCharArray)
-public class Aula77 {
+public class Aula77ExtraindoChars {
 	
 	public static void main(String[] args) {
 

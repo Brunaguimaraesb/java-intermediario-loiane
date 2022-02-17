@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //string: contrutores
-public class Aula75 {
+public class Aula75Construtores {
 	
 public static void main(String[] args) {
 		

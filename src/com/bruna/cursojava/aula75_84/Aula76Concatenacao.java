@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //string: concatenação
-public class Aula76 {
+public class Aula76Concatenacao {
 	
 	public static void main(String[] args) {
 

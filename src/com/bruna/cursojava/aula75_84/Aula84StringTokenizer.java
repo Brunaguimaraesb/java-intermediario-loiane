@@ -3,7 +3,7 @@ package com.bruna.cursojava.aula75_84;
 import java.util.StringTokenizer;
 
 //String Tokenizer - podemos extrair informações de uma string grande 
-public class Aula84 {
+public class Aula84StringTokenizer {
 
 	public static void main(String[] args) {
 

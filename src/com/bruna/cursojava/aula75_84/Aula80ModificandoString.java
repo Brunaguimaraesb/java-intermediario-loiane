@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //String: modificando uma String (substring, concat, replace, trim)
-public class Aula80 {
+public class Aula80ModificandoString {
 
 	public static void main(String[] args) {
 

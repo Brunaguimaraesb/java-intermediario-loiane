@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //String: comparação de Strings (equalsIgnoreCase, regionMatches, startWith, endsWith, compareTo)
-public class Aula78 {
+public class Aula78ComparacaoStrings {
 
 	public static void main(String[] args) {
 

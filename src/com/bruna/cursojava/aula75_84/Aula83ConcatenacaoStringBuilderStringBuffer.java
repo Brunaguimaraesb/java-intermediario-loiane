@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //concatenação com StringBuilder e StringBuffer
-public class Aula83 {
+public class Aula83ConcatenacaoStringBuilderStringBuffer {
 
 	public static void main(String[] args) {
 

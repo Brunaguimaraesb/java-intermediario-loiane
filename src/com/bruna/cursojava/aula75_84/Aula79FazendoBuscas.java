@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //String: fazendo buscas (indexOf, lastIndexOf, contains)
-public class Aula79 {
+public class Aula79FazendoBuscas {
 
 	public static void main(String[] args) {
 

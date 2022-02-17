@@ -1,7 +1,7 @@
 package com.bruna.cursojava.aula75_84;
 
 //String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
-public class Aula81 {
+public class Aula81ModificandoLetras {
 
 	public static void main(String[] args) {
 
